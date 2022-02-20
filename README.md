@@ -75,7 +75,6 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![output1](./web1.jpg)
-![output2](./images/output2.png)
+![](./images/web1.jpg)
 ## RESULT:
 A simple webserver to display top five programming languages is developed.
